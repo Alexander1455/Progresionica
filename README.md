@@ -1,4 +1,4 @@
-
+![Logo](https://github.com/Alexander1455/Progresionica/blob/master/Progresionica/Frontend/public/logo.jpeg)
 # PROGRESIONICA
 
 [![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-green.svg)](https://github.com/tu-usuario/tu-proyecto)
