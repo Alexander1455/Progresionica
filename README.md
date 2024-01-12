@@ -24,7 +24,7 @@ Para comenzar con este proyecto, sigue estos pasos:
 
 1. **Clona el Repositorio:**
 ```
-git clone https://github.com/tu-usuario/tu-proyecto.git
+git clone (https://github.com/Alexander1455/Progresionica.git)
 cd tu-proyecto
 ```
 2. **Instala pnpm:**
